@@ -1,4 +1,4 @@
-# Parte 1 - typing, listas e dicinarios
+# Parte 1 - Typing, Listas e Dicionários
 
 ## Assuntos:
 1. Type Hint
@@ -15,3 +15,12 @@
 python -i <nome-do-arquivo>.py
 ```
 
+# Parte 2 - Lendo arquivos, Funções, Tipagem de Parametros
+
+## Assuntos:
+1. Lendo arquivos
+    * Gerenciador de contextos - usado pra abrir e fechar conexões/arquivos/etc
+     ```Python 
+     with open(): 
+        pass
+    ```
