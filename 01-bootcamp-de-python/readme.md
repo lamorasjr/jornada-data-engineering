@@ -2,7 +2,7 @@
 
 ## List of Modules
 
-- [x] Module 01 - Python, Git e VSCode / Python do Zero
+- [x] Module 01 - Python, Git e VSCode / Python do Zero | Completed: 07/Oct/2024
 - [ ] Module 02 - 
 - [ ] Module 03 - 
 - [ ] Module 04 - 
