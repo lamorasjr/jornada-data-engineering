@@ -3,6 +3,8 @@
 ## About this project
 This repository stores my study notes from the Joranada de Dados video classes and tracks my progress on the Data Engineering roadmap.
 
+The main repository of this course can be accessed here: https://github.com/lvgalvao/data-engineering-roadmap.git
+
 ## Roadmap tracking
 - [ ] 01 - Bootcamp: Python
 - [ ] 02 - Bootcamp: SQL
