@@ -5,7 +5,7 @@
 | Module    | Description                                                                 | Status    | Completion Date |
 |-----------|-----------------------------------------------------------------------------|-----------| ----------------|
 | Module 01 | Python, Git e VSCode: Python do Zero                                        | Completed | 07/Oct/2024     |
-| Module 02 | TypeError, Type Check, Type Conversion, try-except e if                     |           |                 |
+| Module 02 | TypeError, Type Check, Type Conversion, try-except e if                     | Completed | 07/Oct/2024     |
 | Module 03 | Controle de Fluxo: DEBUG, IF, FOR, While, Listas e Dicionários              |           |                 |
 | Module 04 | Tipos complexos e Type Hint (Dicionários vs DataFrames Vs Tabelas Vs Excel) |           |                 |
 | Module 05 | Projeto 01: Leitura e Escrita de Arquivos, lendo 1 bilhão de linhas         |           |                 |
