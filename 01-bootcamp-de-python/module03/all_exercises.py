@@ -34,7 +34,8 @@
 # Objetivo:** Normalizar uma lista de números para que fiquem na escala de 0 a 1.
 
 ### Exercício 8. Filtragem de Dados Faltantes
-# Objetivo:** Dada uma lista de dicionários representando dados de usuários, filtrar aqueles que têm um campo específico faltando
+# Objetivo:** Dada uma lista de dicionários representando dados de usuários, 
+# filtrar aqueles que têm um campo específico faltando
 
 ### Exercício 9. Extração de Subconjuntos de Dados
 # Objetivo:** Dada uma lista de números, extrair apenas aqueles que são pares.
@@ -51,7 +52,8 @@
 # Solicitar ao usuário um número dentro de um intervalo específico até que a entrada seja válida.
 
 ### Exercício 13. Consumo de API Simulado
-# Simular o consumo de uma API paginada, onde cada "página" de dados é processada em loop até que não haja mais páginas.
+# Simular o consumo de uma API paginada, 
+# onde cada "página" de dados é processada em loop até que não haja mais páginas.
 
 ### Exercício 14. Tentativas de Conexão
 # Simular tentativas de reconexão a um serviço com um limite máximo de tentativas.
