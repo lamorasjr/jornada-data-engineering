@@ -7,7 +7,7 @@
 | Module 01 | Python, Git e VSCode: Python do Zero                                        | Completed | 07/Oct/2024     |
 | Module 02 | TypeError, Type Check, Type Conversion, try-except e if                     | Completed | 07/Oct/2024     |
 | Module 03 | Controle de Fluxo: DEBUG, IF, FOR, While, Listas e Dicionários              | Completed | 07/Oct/2024     |
-| Module 04 | Tipos complexos e Type Hint (Dicionários vs DataFrames Vs Tabelas Vs Excel) |           |                 |
+| Module 04 | Tipos complexos e Type Hint (Dicionários vs DataFrames Vs Tabelas Vs Excel) | Completed | 08/Oct/2024     |
 | Module 05 | Projeto 01: Leitura e Escrita de Arquivos, lendo 1 bilhão de linhas         |           |                 |
 | Module 06 | Exercício de revisão                                                        |           |                 |
 | Module 07 | Funções em Python e Estrutura de Dados - Parte 1                            |           |                 |
