@@ -35,13 +35,3 @@ def calc_sales_by_category(dict_data):
         sales_by_category[category] = sales_amount
     return sales_by_category
 
-
-
-# def process_data()
-file_path = 'vendas.csv'
-
-csv_data1 = read_csv(file_path)
-processed_data = process_data(csv_data1)
-total_sales_by_category = calc_sales_by_category(processed_data)
-
-print(total_sales_by_category)
