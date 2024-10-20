@@ -11,7 +11,7 @@
 | Module 05 | Projeto 01: Leitura e Escrita de Arquivos, lendo 1 bilhão de linhas         | Completed | 08/Oct/2024     |
 | Module 06 | Exercício de revisão                                                        | Completed | 09/Oct/2024     |
 | Module 07 | Funções em Python e Estrutura de Dados - Parte 1                            | Completed | 15/Oct/2024     |
-| Module 08 | Funções em Python e Estrutura de Dados - Parte 2                            |           |                 |
+| Module 08 | Funções em Python e Estrutura de Dados - Parte 2                            | Completed | 20/Oct/2024     |
 | Module 09 | Funções em Python e Estrutura de Dados - Parte 3                            |           |                 |
 | Module 10 | Aula de revisão                                                             |           |                 |
 | Module 11 | Introdução a POO                                                            |           |                 |
