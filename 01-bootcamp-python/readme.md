@@ -12,7 +12,7 @@
 | Module 06 | Exercício de revisão                                                        | Completed | 09/Oct/2024     |
 | Module 07 | Funções em Python e Estrutura de Dados - Parte 1                            | Completed | 15/Oct/2024     |
 | Module 08 | Funções em Python e Estrutura de Dados - Parte 2                            | Completed | 20/Oct/2024     |
-| Module 09 | Funções em Python e Estrutura de Dados - Parte 3                            |           |                 |
+| Module 09 | Funções em Python e Estrutura de Dados - Parte 3                            | Completed | 21/Oct/2024     |
 | Module 10 | Aula de revisão                                                             |           |                 |
 | Module 11 | Introdução a POO                                                            |           |                 |
 | Module 12 | Introdução às Classes em Python - Parte 01                                  |           |                 |
