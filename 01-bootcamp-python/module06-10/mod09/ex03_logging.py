@@ -10,7 +10,7 @@ logger.add(
 
 # To save logs in a file
 logger.add(
-    "01-bootcamp-python/mod09/app_logs.log",  # Arquivo onde os logs serão salvos
+    "01-bootcamp-python/module06-10/mod09/app_logs.log",  # Arquivo onde os logs serão salvos
     format="{time} {level} {message} {file}",
     level="CRITICAL"
 )

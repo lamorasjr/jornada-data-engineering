@@ -5,13 +5,13 @@ from functools import wraps
 logger.remove()
 
 logger.add(
-    "01-bootcamp-python/mod09/logs_file.log",
+    "01-bootcamp-python/module06-10/mod09/logs_file.log",
     format="{time} {level} {message} {file}",
     level="INFO"
 )
 
 logger.add(
-    "01-bootcamp-python/mod09/logs_file_critical.log",
+    "01-bootcamp-python/module06-10/mod09/logs_file_critical.log",
     format="{time} {level} {message} {file}",
     level="ERROR"
 )

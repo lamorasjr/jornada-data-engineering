@@ -22,9 +22,9 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
 def load_data(df: pd.DataFrame, output_formats: list):
     for format in output_formats:
         if format == 'csv':
-            df.to_csv('01-bootcamp-python/mod09/sample_data.csv')
+            df.to_csv('01-bootcamp-python/module06-10/mod09/sample_data.csv')
         if format == 'parquet':
-            df.to_parquet('01-bootcamp-python/mod09/sample_data.parquet', index=False)
+            df.to_parquet('01-bootcamp-python/module06-10/mod09/sample_data.parquet', index=False)
 
 @log_decorator
 def pipeline_calculate_sales_kpi_consolidated(folder: str, output_formats: list):

@@ -1,7 +1,7 @@
 from loguru import logger
 from sys import stderr
 
-logger.add("01-bootcamp-python/mod09/my_app_log")
+logger.add("01-bootcamp-python/module06-10/mod09/my_app_log")
 
 def soma(x, y):
     try:

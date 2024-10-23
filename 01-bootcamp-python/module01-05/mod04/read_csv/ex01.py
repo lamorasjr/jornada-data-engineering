@@ -1,7 +1,7 @@
 import csv
 
 # Path to the csv file
-file_path = '/Users/lamorasjr/Downloads/jornada-data-engineering/01-bootcamp-de-python/module04/data/exemplo.csv'
+file_path = '01-bootcamp-python/module01-05/mod04/data/exemplo.csv'
 
 # Starts an empty list to store the data
 file_data = []
