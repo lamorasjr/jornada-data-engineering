@@ -7,7 +7,7 @@ def load_csv_and_filter(csv_file, geo_state):
     # Check and remove empty rows 
     df = df.dropna()
 
-    # Fiter rows by each geo-state
+    # Fiter rows by the selected geo-state
     df_filtered = df[df['estado'] == geo_state]
 
     return df_filtered
