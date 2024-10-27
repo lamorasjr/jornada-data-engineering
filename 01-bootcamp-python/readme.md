@@ -14,8 +14,8 @@
 | Module 08 | Funções em Python e Estrutura de Dados - Parte 2                            | Completed | 20/Oct/2024     |
 | Module 09 | Funções em Python e Estrutura de Dados - Parte 3                            | Completed | 23/Oct/2024     |
 | Module 10 | Aula de revisão                                                             | Completed | 23/Oct/2024     |
-| Module 11 | Introdução a POO                                                            |           |                 |
-| Module 12 | Introdução às Classes em Python - Parte 01                                  |           |                 |
+| Module 11 | Introdução a POO                                                            | Completed | 25/Oct/2024     |
+| Module 12 | Introdução às Classes em Python - Parte 01                                  | Completed | 25/Oct/2024     |
 | Module 13 | Introdução às Classes em Python - Parte 02                                  |           |                 |
 | Module 14 | Introdução às Classes em Python - Parte 03                                  |           |                 |
 | Module 15 | Introdução às Classes em Python - Parte 04                                  |           |                 |
