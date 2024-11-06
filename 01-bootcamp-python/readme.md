@@ -18,7 +18,7 @@
 | Module 12 | Introdução às Classes em Python - Parte 01                                  | Completed | 26/Oct/2024     |
 | Module 13 | Introdução às Classes em Python - Parte 02                                  | Completed | 29/Oct/2024     |
 | Module 14 | Introdução às Classes em Python - Parte 03                                  | Completed | 29/Oct/2024     |
-| Module 15 | Introdução às Classes em Python - Parte 04                                  |           |                 |
+| Module 15 | Introdução às Classes em Python - Parte 04                                  | In Progress | 06/Nov/2024   |
 | Module 16 | Aula de revisão de programação orientada a objetos + SQLModel               |           |                 |
 | Module 17 | SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python           |           |                 |
 | Module 18 | O que é uma API? Request, Pydantic e fazendo nosso CRUD                     |           |                 |
