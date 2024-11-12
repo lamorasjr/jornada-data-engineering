@@ -21,6 +21,6 @@
 | Module 15 | Introdução às Classes em Python - Parte 04                                  | Completed | 06/Nov/2024     |
 | Module 16 | Aula de revisão de programação orientada a objetos + SQLModel               | Completed | 07/Nov/2024     |
 | Module 17 | SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python           | Completed | 08/Nov/2024     |
-| Module 18 | O que é uma API? Request, Pydantic e fazendo nosso CRUD                     | In Progress | 12/Nov/2024 |
+| Module 18 | O que é uma API? Request, Pydantic e fazendo nosso CRUD                     | Completed | 12/Nov/2024     |
 | Module 19 | O que é uma API? Criando nossa primeira API                                 |           |                 |
 | Module 20 | Nosso Projeto de CRUD Backend + Frontend + Banco de Dados                   |           |                 |
