@@ -23,4 +23,4 @@
 | Module 17 | SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python           | Completed | 08/Nov/2024     |
 | Module 18 | O que é uma API? Request, Pydantic e fazendo nosso CRUD                     | Completed | 12/Nov/2024     |
 | Module 19 | O que é uma API? Criando nossa primeira API                                 | Completed | 16/Nov/2024     |
-| Module 20 | Nosso Projeto de CRUD Backend + Frontend + Banco de Dados                   |           |                 |
+| Module 20 | Nosso Projeto de CRUD Backend + Frontend + Banco de Dados                   | Completed | 17/Nov/2024     |
